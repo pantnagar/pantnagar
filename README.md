@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>* 📊 Aspiring **Data Analyst** with a strong interest in transforming data into meaningful business insights.<br>* 🌱 Currently building expertise in **SQL, Excel, Power BI, Python, and Tableau** through hands-on projects.<br>* 🏦 Interested in **Banking, Credit Risk Analytics, Business Intelligence, and Data Visualization**.<br>* 📈 Continuously improving my analytical thinking by solving real-world business problems and creating data-driven dashboards.<br>* 🎯 Goal: To become a skilled Data Analyst who helps organizations make informed decisions through data.<br>
+## 👨‍💻 About Me<br><br>* 📊 Aspiring **Data Analyst** with a strong interest in transforming data into meaningful business insights.<br>* 🌱 Currently building expertise in **SQL, Excel, Power BI, Python, and Tableau** through hands-on projects.<br>* 🏦 Interested in ** Business Intelligence, and Data Visualization**.<br>* 📈 Continuously improving my analytical thinking by solving real-world business problems and creating data-driven dashboards.<br>* 🎯 Goal: To become a skilled Data Analyst who helps organizations make informed decisions through data.<br>
 
 
 # 💻 Tech Stack:
